@@ -1,0 +1,26 @@
+{
+  "name": "bchat",
+  "version": "1.0.0",
+  "description": "socket io chat with dockers containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassyP/bchat.git"
+  },
+  "keywords": [
+    "bchat",
+    "classyLabs"
+  ],
+  "author": "ClassyP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClassyP/bchat/issues"
+  },
+  "homepage": "https://github.com/ClassyP/bchat#readme",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
